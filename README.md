@@ -1,7 +1,7 @@
 # Hi, I am Zhoha Damani! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 <div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yash-2115&label=Profile%20views&color=0e75b6&style=flat" alt="yash" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zhoha28&label=Profile%20views&color=0e75b6&style=flat" alt="yash" />
 </div> 
 
 I am Zhoha, graduated from a website design and development post-graduate certificate program at Conestoga College with a bachelor’s in computer science. I am a tech enthusiast & motivated learner. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
