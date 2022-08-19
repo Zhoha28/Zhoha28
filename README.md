@@ -1,7 +1,7 @@
 # Hi, I am Zhoha Damani! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 
-I am Zhoha, graduated from a website design and development post-graduate certificate program at Conestoga College with a bachelor’s in computer science. I am a tech enthusiast & motivated learner. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here:
+I am Zhoha, graduated from a website design and development post-graduate certificate program at Conestoga College with a bachelor’s in computer science. I am a tech enthusiast & motivated learner. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhohadamanigmail.com)](mailto:zhohadamanigmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhohadamani/)](https://www.linkedin.com/in/zhohadamani/)
