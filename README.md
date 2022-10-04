@@ -6,7 +6,7 @@ I am Zhoha, graduated from a website design and development post-graduate certif
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zhohadamanigmail.com)](mailto:zhohadamanigmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhohadamani/)](https://www.linkedin.com/in/zhohadamani/)
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zhoha28&theme=xcode)](https://github.com/Zhoha28)
+[![Zhoha's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zhoha28&theme=xcode)](https://github.com/Zhoha28)
 
 ## ⚡ Technologies
 
